@@ -40,10 +40,10 @@ gcc atm.c -o atm
 
 ./atm.
 
-License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Author
+# Author
 
 Your Name -prathameshgawande225.
